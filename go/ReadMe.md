@@ -141,9 +141,7 @@ Go's if statements are like its for loops; the expression need not be surrounded
 https://go.dev/tour/list
 
 
-
-
-
+https://go.dev/blog/slices-intro
 
 
 
