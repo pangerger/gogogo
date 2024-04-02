@@ -102,6 +102,22 @@ Go's if statements are like its for loops; the expression need not be surrounded
 
 
 
+## Map
+
+
+```
+elem, ok = m[key]
+```
+
+If `key` is in `m`, `ok` is true. If not, `ok` is false
+
+
+Note: If key or ok have not yet been declared you could use a short declaration form:
+
+`elem, ok := m[key]`
+
+
+
 # others
 
 ```go
